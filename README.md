@@ -28,4 +28,4 @@ Note: *Two objects are said to be disjoint if no foreground pixels in the first 
 IV. Traversing the tree to display the image in
 a) row wise fashion \
 b) column wise fashion \
-c) spiral traversal of the given image. \
+c) spiral traversal of the given image. 
