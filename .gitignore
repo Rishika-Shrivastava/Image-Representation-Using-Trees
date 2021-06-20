@@ -1,0 +1,10 @@
+#directories
+/bin
+/obj
+
+#files
+dspd assignment 2.cbp
+dspd assignment 2.depend
+final.c
+main.exe
+main.o
